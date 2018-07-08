@@ -1,0 +1,52 @@
+.nav-mobile{
+  /* text-center: */
+opacity: 0.64;
+font-family: Montserrat-ExtraBold;
+font-size: 12px;
+color: #FFFFFF;
+letter-spacing: 1px;
+text-align: right;
+line-height: 16px;
+text-transform: uppercase;
+}
+
+.nav-mobile:hover{
+  /* text-center: */
+opacity: 1;
+}
+
+.nav-web{
+font-family: Montserrat-ExtraBold;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 1.5px;
+text-align: center;
+line-height: 20px;
+text-transform: uppercase;
+}
+
+.social-logo{
+  opacity: 0.64;
+}
+
+.social-logo:hover{
+  opacity: 1;
+}
+
+#kapil-logo-white:hover{
+  opacity: 0.64;
+}
+
+.tweetme{
+  opacity: 0.64;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: underline;
+    -webkit-text-decoration-color: #222; /* Safari */
+    text-decoration-color: #222;
+}
+
+.tweetme:hover{
+  opacity: 1;
+  color: #479CEE;
+}
