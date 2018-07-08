@@ -1,8 +1,6 @@
 .nav-mobile{
   /* text-center: */
 opacity: 0.64;
-font-family: Montserrat-ExtraBold;
-font-size: 12px;
 color: #FFFFFF;
 letter-spacing: 1px;
 text-align: right;
@@ -16,8 +14,6 @@ opacity: 1;
 }
 
 .nav-web{
-font-family: Montserrat-ExtraBold;
-font-size: 16px;
 color: #FFFFFF;
 letter-spacing: 1.5px;
 text-align: center;
